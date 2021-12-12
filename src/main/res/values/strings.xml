@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ticketbooking</string>
+    <string name="from">FROM</string>
+    <string name="ticket_details">Ticket Details</string>
+    <string name="cost">COST</string>
+    <string name="date">DATE</string>
+    <string name="name">NAME</string>
+    <string name="to">TO</string>
+</resources>

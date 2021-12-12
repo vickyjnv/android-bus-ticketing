@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_dark"
+    tools:context=".Ticket_Details">
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="203dp"
+        android:layout_height="43dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="99dp"
+        android:layout_marginTop="7dp"
+        android:text="BOOKING DETAILS"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="140dp"
+        android:layout_height="41dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="116dp"
+        android:text="FROM" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="141dp"
+        android:layout_height="55dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="188dp"
+        android:text="TO" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="136dp"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="282dp"
+        android:text="FARE" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="139dp"
+        android:layout_height="48dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="3dp"
+        android:layout_marginBottom="325dp"
+        android:text="DATE" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="137dp"
+        android:layout_height="59dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginBottom="226dp"
+        android:text="NAME" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="210dp"
+        android:layout_height="44dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="114dp"
+        android:layout_marginEnd="9dp" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="209dp"
+        android:layout_height="43dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="197dp"
+        android:layout_marginEnd="6dp" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="204dp"
+        android:layout_height="44dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="286dp"
+        android:layout_marginEnd="5dp" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="211dp"
+        android:layout_height="46dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="323dp" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="208dp"
+        android:layout_height="51dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="226dp"
+        android:text="TextView" />
+</RelativeLayout>
